@@ -10,5 +10,5 @@ Este repositorio forma parte de mi proceso de aprendizaje en Desarrollo de Softw
 Proyecto académico creado para practicar el uso de repositorios y documentación.
 
 ## Autor
-Angel Sánchez  
+Juan Sanchez  
 Estudiante de Desarrollo de Software
